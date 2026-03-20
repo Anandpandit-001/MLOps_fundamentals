@@ -14,17 +14,16 @@ It processes OHLCV data, computes a rolling mean on the `close` column, generate
 - Structured metrics output (JSON)
 - Detailed logging
 - Dockerized for reproducibility
-
----
-## Docker Image
-
--You can pull the pre-built Docker image:
-
-```bash
-docker pull aryanmashalkar/mlops-task
 ---
 ## Run the Project
 
 ```bash
 python run.py --input data.csv --config config.yaml --output metrics.json --log-file run.log
 ---
+
+## Docker Image
+
+-You can pull the pre-built Docker image:
+
+```bash
+docker pull aryanmashalkar/mlops-task
