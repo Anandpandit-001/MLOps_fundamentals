@@ -1,0 +1,58 @@
+2026-03-20 14:27:15,013 - INFO - Job started
+2026-03-20 14:27:15,014 - INFO - Config validated successfully
+2026-03-20 14:27:15,048 - ERROR - Missing 'close' column in CSV
+2026-03-20 14:27:15,049 - INFO - Metrics file generated
+2026-03-20 14:27:15,050 - ERROR - Job completed with errors
+2026-03-20 14:38:56,190 - INFO - Job started
+2026-03-20 14:38:56,191 - INFO - Config validated successfully
+2026-03-20 14:38:56,212 - ERROR - Missing 'close' column in CSV
+2026-03-20 14:38:56,216 - INFO - Metrics file generated
+2026-03-20 14:38:56,216 - ERROR - Job completed with errors
+2026-03-20 14:39:23,042 - INFO - Job started
+2026-03-20 14:39:23,042 - INFO - Config validated successfully
+2026-03-20 14:39:23,082 - INFO - Rolling mean calculated
+2026-03-20 14:39:23,083 - INFO - Signal generated
+2026-03-20 14:39:23,083 - INFO - Rows processed: 9996
+2026-03-20 14:39:23,085 - INFO - Metrics file generated
+2026-03-20 14:39:23,085 - INFO - Job completed successfully
+2026-03-20 14:49:03,106 - INFO - Job started
+2026-03-20 14:49:03,142 - INFO - Config validated successfully
+2026-03-20 14:49:03,179 - ERROR - 0
+2026-03-20 14:49:03,180 - INFO - Metrics file generated
+2026-03-20 14:49:03,180 - ERROR - Job completed with errors
+2026-03-20 14:50:26,797 - INFO - Job started
+2026-03-20 14:50:26,798 - INFO - Config validated successfully
+2026-03-20 14:50:26,803 - ERROR - [Errno 2] No such file or directory: 'data.csv'
+2026-03-20 14:50:26,804 - INFO - Metrics file generated
+2026-03-20 14:50:26,804 - ERROR - Job completed with errors
+2026-03-20 14:51:35,915 - INFO - Job started
+2026-03-20 14:51:35,916 - INFO - Config validated successfully
+2026-03-20 14:51:35,935 - ERROR - 0
+2026-03-20 14:51:35,936 - INFO - Metrics file generated
+2026-03-20 14:51:35,936 - ERROR - Job completed with errors
+2026-03-20 14:54:35,387 - INFO - Job started
+2026-03-20 14:54:35,387 - INFO - Config validated successfully
+2026-03-20 14:54:35,397 - ERROR - 0
+2026-03-20 14:54:35,397 - INFO - Metrics file generated
+2026-03-20 14:54:35,397 - ERROR - Job completed with errors
+2026-03-20 14:54:45,401 - INFO - Job started
+2026-03-20 14:54:45,401 - INFO - Config validated successfully
+2026-03-20 14:54:45,435 - INFO - Rolling mean calculated
+2026-03-20 14:54:45,436 - INFO - Signal generated
+2026-03-20 14:54:45,436 - INFO - Rows processed: 9996
+2026-03-20 14:54:45,438 - INFO - Metrics file generated
+2026-03-20 14:54:45,438 - INFO - Job completed successfully
+2026-03-20 14:56:55,778 - INFO - Job started
+2026-03-20 14:56:55,779 - INFO - Config validated successfully
+2026-03-20 14:56:55,805 - INFO - Rolling mean calculated
+2026-03-20 14:56:55,806 - INFO - Signal generated
+2026-03-20 14:56:55,807 - INFO - Rows processed: 9996
+2026-03-20 14:56:55,808 - INFO - Metrics file generated
+2026-03-20 14:56:55,808 - INFO - Job completed successfully
+2026-03-20 15:08:01,106 - INFO - Job started
+2026-03-20 15:08:01,106 - INFO - Config validated successfully
+2026-03-20 15:08:01,136 - INFO - Rolling mean calculated
+2026-03-20 15:08:01,137 - INFO - Signal generated
+2026-03-20 15:08:01,138 - INFO - Rows processed: 9996
+2026-03-20 15:08:01,139 - INFO - Metrics file generated
+2026-03-20 15:08:01,139 - INFO - Job completed successfully
