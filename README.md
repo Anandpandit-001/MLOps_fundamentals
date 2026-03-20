@@ -24,7 +24,7 @@ python run.py --input data.csv --config config.yaml --output metrics.json --log-
 ---
 ## Docker Image
 
-You can pull the pre-built Docker image:
+-You can pull the pre-built Docker image:
 
 ```bash
 docker pull aryanmashalkar/mlops-task
