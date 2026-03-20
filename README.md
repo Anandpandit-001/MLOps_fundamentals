@@ -27,4 +27,4 @@ docker pull aryanmashalkar/mlops-task
 
 ```bash
 python run.py --input data.csv --config config.yaml --output metrics.json --log-file run.log
-
+---
